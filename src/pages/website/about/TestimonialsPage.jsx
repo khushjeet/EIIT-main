@@ -113,6 +113,18 @@ const TestimonialsPage = () => {
       avatar:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNKfj6RsyRZqO4nnWkPFrYMmgrzDmyG31pFQ&s",
     },
+    {
+      id: 9,
+      name: "Manoj Kumar",
+      role: "MS-OFFICE Course Student",
+      quote:
+        "Computer Center And Library Best facility available",
+      rating: 5,
+      category: "student",
+      avatar:
+        "https://lh3.googleusercontent.com/a-/ALV-UjUL0uWLE_48gQMtx-csX9VH4x3oliLsGRPsl15wDxbNbwHqsSWE=w90-h90-p-rp-mo-ba1-br100",
+    },
+    
   ];
 
   const studentTestimonials = testimonials.filter(
